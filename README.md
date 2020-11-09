@@ -2,9 +2,9 @@
 Performing analysis on Louise's Kickstarter data to uncover trends about monetary goals and pledges in the US and Great Britain.
 ### An Analysis of Theater Campaigns
 This data compares percentages of success, failure, and cancellation of campaigns for plays through categories of price ranges, as depicted in the line graph below. 
-![historicalgraph](historicalgraph.png)
+![historicalgraph](images/historicalgraph.png)
 Outcomes are determined through whether the amount of money pledged reaches the fundraising goal for the play campaigns, illustrated through time.
-![launchdate](launchdate.png)
+![launchdate](images/launchdate.png)
 Based on the data, three conclusions are clear.
 1. The most successful plays had a goal of less than $1000.
 2. The most successful plays had launch dates around May, but no matter what month, the likelihood of success is greater than the likelihood of failure or cancellation.
